@@ -4,7 +4,7 @@ A comprehensive, step-by-step guide to mastering Agentic AI design patterns. Thi
 
 ## Stack
 - **Language**: Python
-- **Model**: Google Gemini (`google-generativeai`)
+- **Model**: Ollama (Llama 3) — OpenAI Compatible SDK
 
 ## Curriculum
 
@@ -28,14 +28,21 @@ A comprehensive, step-by-step guide to mastering Agentic AI design patterns. Thi
 
 ## Getting Started
 
-1.  **Clone the repo**:
+1.  **Install Ollama**:
+    Download and install from [ollama.com](https://ollama.com/).
+
+2.  **Pull Llama 3**:
+    ```bash
+    ollama pull llama3
+    ```
+
+3.  **Clone the repo**:
     ```bash
     git clone <your-repo-url>
     cd agentic_ai_patterns
     ```
-2.  **Install dependencies**:
+
+4.  **Install dependencies**:
     ```bash
     pip install -r requirements.txt
     ```
-3.  **Set up API Key**:
-    Copy `.env.example` to `.env` and add your `GEMINI_API_KEY`.
