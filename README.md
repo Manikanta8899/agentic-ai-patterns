@@ -11,7 +11,7 @@ A comprehensive, step-by-step guide to mastering Agentic AI design patterns. Thi
 ### Level 1: Foundations (The Basics)
 *Focus: Understanding the raw LLM interface.*
 1.  **[The Prompt Loop](01_foundations/01_simple_chat)**: Managing conversation history and context windows.
-2.  **Structured Output**: Forcing valid JSON for reliable parsing.
+2.  **[Structured Output](01_foundations/02_structured_output)**: Forcing valid JSON for reliable parsing.
 3.  **Simple Tool Use**: The mechanics of function calling.
 
 ### Level 2: Workflows (Cognitive Architectures)
