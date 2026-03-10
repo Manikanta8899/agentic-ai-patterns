@@ -4,7 +4,7 @@ A comprehensive, step-by-step guide to mastering Agentic AI design patterns. Thi
 
 ## Stack
 - **Language**: Python
-- **Model**: Ollama (Llama 3) — OpenAI Compatible SDK
+- **Model**: Ollama (Llama 3.2 recommended) — OpenAI Compatible SDK
 
 ## Curriculum
 
@@ -12,7 +12,7 @@ A comprehensive, step-by-step guide to mastering Agentic AI design patterns. Thi
 *Focus: Understanding the raw LLM interface.*
 1.  **[The Prompt Loop](01_foundations/01_simple_chat)**: Managing conversation history and context windows.
 2.  **[Structured Output](01_foundations/02_structured_output)**: Forcing valid JSON for reliable parsing.
-3.  **Simple Tool Use**: The mechanics of function calling.
+3.  **[Simple Tool Use](01_foundations/03_tool_use)**: The mechanics of function calling.
 
 ### Level 2: Workflows (Cognitive Architectures)
 *Focus: Reliability and Reasoning.*
@@ -31,9 +31,9 @@ A comprehensive, step-by-step guide to mastering Agentic AI design patterns. Thi
 1.  **Install Ollama**:
     Download and install from [ollama.com](https://ollama.com/).
 
-2.  **Pull Llama 3**:
+2.  **Pull Llama 3.2**:
     ```bash
-    ollama pull llama3
+    ollama pull llama3.2
     ```
 
 3.  **Clone the repo**:
