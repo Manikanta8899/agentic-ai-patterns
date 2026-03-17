@@ -16,7 +16,7 @@ A comprehensive, step-by-step guide to mastering Agentic AI design patterns. Thi
 
 ### Level 2: Workflows (Cognitive Architectures)
 *Focus: Reliability and Reasoning.*
-1.  **Chain of Thought (CoT)**: Explicit reasoning steps.
+1.  **[Chain of Thought (CoT)](02_workflows/01_chain_of_thought)**: Explicit reasoning steps.
 2.  **ReAct**: The Reason+Act loop for autonomy.
 3.  **RAG**: Grounding answers in external data.
 
