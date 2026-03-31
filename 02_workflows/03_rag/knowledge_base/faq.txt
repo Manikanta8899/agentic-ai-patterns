@@ -1,0 +1,22 @@
+NovaTech Solutions - Frequently Asked Questions (FAQ)
+
+Q: How do I reset my password?
+A: Go to the login page and click "Forgot Password." Enter your registered email address. You will receive a password reset link within 5 minutes. If you don't see it, check your spam folder.
+
+Q: Can I integrate NovaBoard with Slack?
+A: Yes! NovaBoard integrates with Slack, Microsoft Teams, and Discord. Go to Settings > Integrations > Add New, and select your preferred platform. You will need admin permissions on your Slack workspace to complete the setup.
+
+Q: What happens when my trial expires?
+A: Your 14-day free trial includes all Pro Plan features. When it expires, your account will be downgraded to the Starter Plan. Your data is preserved for 90 days, so you can upgrade at any time without losing anything.
+
+Q: Does NovaBoard support mobile devices?
+A: Yes, NovaBoard has native apps for iOS (version 15+) and Android (version 12+). You can download them from the App Store or Google Play. The mobile app supports offline mode for viewing tasks, and changes sync automatically when you reconnect.
+
+Q: How does the AI task prediction work?
+A: NovaBoard's AI analyzes your team's historical task completion data, including average time per task type, individual developer velocity, and sprint patterns. It uses this data to predict completion dates for new tasks and flags items that are at risk of missing their deadline. The model requires at least 4 weeks of data to start making predictions.
+
+Q: Can I export my data?
+A: Yes, you can export all your project data at any time. Go to Settings > Data Management > Export. We support CSV, JSON, and PDF formats. Exports typically complete within 10 minutes for accounts with fewer than 10,000 tasks.
+
+Q: What is your uptime guarantee?
+A: NovaTech guarantees 99.9% uptime for Pro and Enterprise plans. Our current trailing 12-month uptime is 99.97%. You can check our real-time status at status.novatech.example.com.

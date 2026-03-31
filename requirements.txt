@@ -2,3 +2,4 @@ openai
 python-dotenv
 termcolor
 pydantic
+numpy
