@@ -22,7 +22,7 @@ A comprehensive, step-by-step guide to mastering Agentic AI design patterns. Thi
 
 ### Level 3: Systems (Multi-Agent)
 *Focus: Collaboration and Scale.*
-1.  **Routing & Classification**: Intent detection.
+1.  **[Routing & Classification](03_systems/01_routing)**: Intent detection.
 2.  **Orchestrator-Workers**: Parallel task delegation.
 3.  **Evaluator-Optimizer**: Self-improving loops.
 
